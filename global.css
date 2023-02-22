@@ -1,0 +1,17 @@
+@import "./styles/header.css";
+@import "./styles/main.css";
+:root {
+  --gray-500: #2b2c34;
+  --white-500: #eaeaea;
+  --black-600: 121214;
+  --purple-500: #6246ea;
+  --red-300: #e45858;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Roboto", sans-serif;
+}
